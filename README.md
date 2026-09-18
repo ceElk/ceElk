@@ -7,6 +7,7 @@ Développeuse web en formation avancée (Bachelor 3, My Digital School — Anger
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a3a6b?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a3a6b?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-1a3a6b?style=for-the-badge&logo=wordpress&logoColor=white)
 
