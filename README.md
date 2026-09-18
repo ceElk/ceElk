@@ -42,8 +42,17 @@ echo $cecilia->seDecrire();
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1a3a6b?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a3a6b?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a3a6b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a3a6b?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a3a6b?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-1a3a6b?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-1a3a6b?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a3a6b?style=for-the-badge&logo=node.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-1a3a6b?style=for-the-badge&logo=symfony&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a3a6b?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1a3a6b?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a3a6b?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💼 Ce que je fais
 
