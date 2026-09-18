@@ -59,6 +59,10 @@ echo $cecilia->seDecrire();
 - En ce moment : projets d'école, exploration de nouvelles stacks
 - Ancienne intégratrice web freelance (WordPress, SEO, réseaux sociaux)
 
+## 🎓 Expériences
+
+- **Stage développement web — Olsen Conseil** (44 jours) : conception et développement d'un portail web moderne intégré à ILIAS 10 (LMS open-source), sans modification du cœur d'ILIAS. Stack : PHP 8, REST API, plugin UIHook, JavaScript, MariaDB, environnement Docker. Mise en place d'authentification JWT, gestion des rôles (RBAC), et débogage de problèmes techniques complexes (CORS, sessions, SQL).
+
 ## ✍️ En dehors du code
 
 - J'écris un livre — un texte hybride entre récit et réflexion philosophique
