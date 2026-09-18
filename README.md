@@ -62,9 +62,15 @@ echo $cecilia->seDecrire();
 | Compétence | Description |
 |---|---|
 | 🧠 Pensée critique | Passionnée de philosophie, de neurosciences et titulaire d'une licence de psychologie |
+| 🔍 Débogage & résolution de problèmes | Capacité à identifier et résoudre des bugs complexes (SQL, CORS, sessions) en autonomie |
+| 📚 Apprentissage rapide | Montée en compétence sur de nouvelles stacks et technologies non maîtrisées au départ |
+| 🧩 Logique & structuration | Approche méthodique pour structurer du code et des architectures propres |
+| 🔄 Adaptabilité technique | À l'aise pour changer de stack en cours de projet selon les besoins (ex: Vue.js → PHP/JS) |
 | ✍️ Communication écrite | Auteure en cours d'écriture, community manager |
-| 🔍 Rigueur & autonomie | Habituée au travail freelance et à la résolution de bugs complexes en autonomie |
-| 🤝 Travail d'équipe | Expérience de projets collaboratifs en formation |
+| 🤝 Travail d'équipe | Expérience de projets collaboratifs en formation et en stage |
+| 🎯 Autonomie & rigueur | Habituée au travail freelance et à la gestion de projet en solo |
+
+
 ## 💼 Ce que je fais
 
 - Développement web (front & back), intégration, projets d'équipe
