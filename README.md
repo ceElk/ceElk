@@ -2,6 +2,39 @@
 
 Développeuse web en formation avancée (Bachelor 3, My Digital School — Angers), avec un parcours DWWM en poche. Je code, j'écris, et je pense — souvent en même temps.
 
+## 👩‍💻 À propos de moi
+
+```php
+<?php
+
+class Cecilia {
+    private string $role = "Développeuse web";
+    private array $formation = [
+        "DWWM" => "CEFII Angers",
+        "Bachelor 3" => "My Digital School, Angers"
+    ];
+    private array $passions = [
+        "philosophie",
+        "écriture",
+        "astrologie"
+    ];
+    private string $enCours = "écriture d'un livre hybride récit/philosophie";
+
+    public function seDecrire(): string {
+        return "Je code, j'écris, et je pense — souvent en même temps.";
+    }
+
+    public function contact(): string {
+        return "cecilia.elkrieff@gmail.com";
+    }
+}
+
+$cecilia = new Cecilia();
+echo $cecilia->seDecrire();
+
+?>
+```
+
 ## 🔧 Stack & outils
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,9 +56,11 @@ Développeuse web en formation avancée (Bachelor 3, My Digital School — Anger
 - Passionnée de philosophie, je questionne autant les systèmes que les lignes de code
 - Community manager pour une maison d'édition
 
-## 📊 Statistiques GitHub
+## 🚀 Mes vues d'avenir
 
-![Stats de Cécilia](https://github-readme-stats.vercel.app/api?username=ceElk&show_icons=true&theme=default&title_color=1a3a6b&icon_color=1a3a6b&text_color=111111&bg_color=ffffff)
+- Approfondir le développement full stack
+- Explorer l'intelligence artificielle et ses applications concrètes
+- Continuer à faire dialoguer technique et réflexion philosophique
 
 ## 📫 Me contacter
 
