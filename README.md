@@ -53,6 +53,18 @@ echo $cecilia->seDecrire();
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a3a6b?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2c5282?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+[![Mes compétences](https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,docker,git,wordpress,react,nodejs,figma&theme=dark)](https://skillicons.dev)
+
+
+## 🌟 Soft skills
+
+| Compétence | Description |
+|---|---|
+| 🧠 Pensée critique | Passionnée de philosophie, de neurosciences et titulaire d'une licence de psychologie |
+| ✍️ Communication écrite | Auteure en cours d'écriture, community manager |
+| 🔍 Rigueur & autonomie | Habituée au travail freelance et à la résolution de bugs complexes en autonomie |
+| 🤝 Travail d'équipe | Expérience de projets collaboratifs en formation |
 ## 💼 Ce que je fais
 
 - Développement web (front & back), intégration, projets d'équipe
