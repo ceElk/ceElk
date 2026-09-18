@@ -13,11 +13,12 @@ class Cecilia {
         "DWWM" => "CEFII Angers",
         "Bachelor 3" => "My Digital School, Angers"
     ];
-    private array $passions = [
-        "philosophie",
-        "écriture",
-        "astrologie"
-    ];
+ private array $passions = [
+    "philosophie",
+    "neurosciences",
+    "écriture",
+    "développement web"
+];
     private string $enCours = "écriture d'un livre hybride récit/philosophie";
 
     public function seDecrire(): string {
